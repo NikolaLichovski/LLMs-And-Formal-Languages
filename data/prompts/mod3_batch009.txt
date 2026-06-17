@@ -1,0 +1,34 @@
+You are given a formal language L over the alphabet {a, b, c} defined as:
+L = { w | the number of occurrences of 'b' in w is divisible by 3 }
+
+For each word below, determine whether it belongs to L.
+
+Rules:
+- Do not execute any code or use any tools
+- Do not explain your reasoning
+- Answer with exactly one word per line: YES or NO
+- Your response must contain exactly 20 lines in this format:
+  N. [word] : YES
+  or
+  N. [word] : NO
+
+1. bbbbbbbbbbbbcbbbbbbbbbbbbabbbbbbbbbbbbcbbbbbbbbbbbbcbbbbbbbbbbbc
+2. bbaaaaacaabaacaccaaacccabc
+3. cabacaacaccaccaaccaaaccaaccbaaccccaaccaaacccaaaccccac
+4. ccaacaaccaccaaacaccaaaaaaacaca
+5. bbabcbabcbcbcbabcbcba
+6. bbcbbbcbbbcbbbbccbbbbbbbbbbbb
+7. aaabbbb
+8. bbbbcbbbbbbbcbbbbbbbbbabbbcbbbbbbbbbbcabbbbcbbbbbbb
+9. bbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+10. ccacaaaccaacaaaacaca
+11. baabbcaccbbcbbaaaaaacbbacaaacaabacaccacbbacbcbbbacccbbbb
+12. cacaacaaacacccaaccacaccccaaccccaaacccc
+13. bbbbabbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbb
+14. aaacbaaccccccaaacacacc
+15. accbbbbbb
+16. bbcbabbcbabcbbcbababbabcbc
+17. bbcbbabbcbbcbbcbbabbcbbcbbabbabbabbcbba
+18. bcccbccabacaa
+19. abbc
+20. cbbb

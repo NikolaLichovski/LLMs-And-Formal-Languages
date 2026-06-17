@@ -1,0 +1,34 @@
+You are given a formal language L over the alphabet {a, b, c} defined as:
+L = { w | the number of occurrences of 'b' in w is divisible by 4 }
+
+For each word below, determine whether it belongs to L.
+
+Rules:
+- Do not execute any code or use any tools
+- Do not explain your reasoning
+- Answer with exactly one word per line: YES or NO
+- Your response must contain exactly 20 lines in this format:
+  N. [word] : YES
+  or
+  N. [word] : NO
+
+1. bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbba
+2. caaaacaacbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbacaca
+3. bccacabcacaaabacaccabaacacabaccaccbcaaacabaccaca
+4. cabbccbbaacbcaaccaabaacabaabbb
+5. babbbbabbbbbbbbbbbbbbbcbbbb
+6. bbbabbbbbcabbabbcbbccb
+7. bbbbbbbbbbbbbbbabbbbbbbbbbbbbbbabbbbbbbbbbbbbba
+8. acabbbbbbbaccccaaaacaccc
+9. bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbcccccccaaccccaaaccaaaccaacacaaa
+10. bbbcbbbcbbbcbbbcbbcbbbabbbabbbabbabbbabbbcbbbcbbabbbabbbabbbcbbabbbcbbbabbbabbc
+11. acba
+12. bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbc
+13. bbcbcbababcbcbcbabcbabcbabcbabbabcbabababcbcbababababcbcbcba
+14. bacacbacacbaaaabaaaac
+15. ccaaaccccccacacaccaaabacacaaccaaccccccaaaacccacc
+16. abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaa
+17. bbcbcbcbabcbababcbcbabababbcbabcbcbcbcbababababcbcbbcbcbcbcbababcbababcbabcbbababcbababcbababcbcbcbc
+18. acaaccacabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbba
+19. ccccb
+20. cbbbbbbbbbbbbbbbbbbbbaacc

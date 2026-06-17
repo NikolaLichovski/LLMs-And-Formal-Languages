@@ -1,0 +1,6 @@
+b_count_tier,chatgpt_total,chatgpt_correct,chatgpt_excluded,chatgpt_accuracy_pct,gemini_total,gemini_correct,gemini_excluded,gemini_accuracy_pct
+very_low,993,958,0,96.48,993,832,0,83.79
+low,854,724,0,84.78,854,572,0,66.98
+medium,654,461,0,70.49,654,420,0,64.22
+high,344,201,0,58.43,344,186,0,54.07
+very_high,155,90,0,58.06,155,78,0,50.32

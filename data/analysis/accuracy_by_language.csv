@@ -1,0 +1,4 @@
+language,chatgpt_total,chatgpt_correct,chatgpt_excluded,chatgpt_accuracy_pct,gemini_total,gemini_correct,gemini_excluded,gemini_accuracy_pct
+mod_3,1000,798,0,79.8,1000,671,0,67.1
+mod_4,1000,806,0,80.6,1000,710,0,71.0
+mod_5,1000,830,0,83.0,1000,707,0,70.7

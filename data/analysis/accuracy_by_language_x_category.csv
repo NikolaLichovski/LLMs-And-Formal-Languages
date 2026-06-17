@@ -1,0 +1,10 @@
+language,category,chatgpt_total,chatgpt_correct,chatgpt_excluded,chatgpt_accuracy_pct,gemini_total,gemini_correct,gemini_excluded,gemini_accuracy_pct
+mod_3,near_miss,200,165,0,82.5,200,120,0,60.0
+mod_3,negative,400,343,0,85.75,400,271,0,67.75
+mod_3,positive,400,290,0,72.5,400,280,0,70.0
+mod_4,near_miss,200,180,0,90.0,200,137,0,68.5
+mod_4,negative,400,350,0,87.5,400,307,0,76.75
+mod_4,positive,400,276,0,69.0,400,266,0,66.5
+mod_5,near_miss,200,176,0,88.0,200,133,0,66.5
+mod_5,negative,400,354,0,88.5,400,291,0,72.75
+mod_5,positive,400,300,0,75.0,400,283,0,70.75

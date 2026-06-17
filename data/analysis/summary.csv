@@ -1,0 +1,3 @@
+model,total,valid,correct,excluded,accuracy_pct
+chatgpt,3000,3000,2434,0,81.13
+gemini,3000,3000,2088,0,69.6

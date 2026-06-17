@@ -1,0 +1,4 @@
+category,chatgpt_total,chatgpt_correct,chatgpt_excluded,chatgpt_accuracy_pct,gemini_total,gemini_correct,gemini_excluded,gemini_accuracy_pct
+near_miss,600,521,0,86.83,600,390,0,65.0
+negative,1200,1047,0,87.25,1200,869,0,72.42
+positive,1200,866,0,72.17,1200,829,0,69.08

@@ -1,0 +1,6 @@
+residue_class,chatgpt_total,chatgpt_correct,chatgpt_excluded,chatgpt_accuracy_pct,gemini_total,gemini_correct,gemini_excluded,gemini_accuracy_pct
+0,1200,866,0,72.17,1200,829,0,69.08
+1,600,521,0,86.83,600,390,0,65.0
+2,734,643,0,87.6,734,524,0,71.39
+3,333,288,0,86.49,333,255,0,76.58
+4,133,116,0,87.22,133,90,0,67.67

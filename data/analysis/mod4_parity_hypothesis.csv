@@ -1,0 +1,5 @@
+language,residue_class,parity,true_membership,chatgpt_total,chatgpt_correct,chatgpt_accuracy_pct,chatgpt_said_yes,chatgpt_said_no,chatgpt_said_yes_pct,gemini_total,gemini_correct,gemini_accuracy_pct,gemini_said_yes,gemini_said_no,gemini_said_yes_pct
+mod_4,0,even,YES,400,276,69.0,276,124,69.0,400,266,66.5,266,134,66.5
+mod_4,1,odd,NO,200,180,90.0,20,180,10.0,200,137,68.5,63,137,31.5
+mod_4,2,even,NO,200,179,89.5,21,179,10.5,200,153,76.5,47,153,23.5
+mod_4,3,odd,NO,200,171,85.5,29,171,14.5,200,154,77.0,46,154,23.0

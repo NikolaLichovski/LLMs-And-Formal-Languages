@@ -1,0 +1,6 @@
+residue_class,chatgpt_yes_total,chatgpt_fn_count,chatgpt_fn_rate_pct,chatgpt_no_total,chatgpt_fp_count,chatgpt_fp_rate_pct,gemini_yes_total,gemini_fn_count,gemini_fn_rate_pct,gemini_no_total,gemini_fp_count,gemini_fp_rate_pct
+0,1200,334,27.83,0,0,0.0,1200,371,30.92,0,0,0.0
+1,0,0,0.0,600,79,13.17,0,0,0.0,600,210,35.0
+2,0,0,0.0,734,91,12.4,0,0,0.0,734,210,28.61
+3,0,0,0.0,333,45,13.51,0,0,0.0,333,78,23.42
+4,0,0,0.0,133,17,12.78,0,0,0.0,133,43,32.33

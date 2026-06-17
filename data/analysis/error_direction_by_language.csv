@@ -1,0 +1,4 @@
+language,chatgpt_yes_total,chatgpt_fn_count,chatgpt_fn_rate_pct,chatgpt_no_total,chatgpt_fp_count,chatgpt_fp_rate_pct,gemini_yes_total,gemini_fn_count,gemini_fn_rate_pct,gemini_no_total,gemini_fp_count,gemini_fp_rate_pct
+mod_3,400,110,27.5,600,92,15.33,400,120,30.0,600,209,34.83
+mod_4,400,124,31.0,600,70,11.67,400,134,33.5,600,156,26.0
+mod_5,400,100,25.0,600,70,11.67,400,117,29.25,600,176,29.33

@@ -1,5 +1,4 @@
 # Formal Language LLM Recognition Experiment
-# README — Formal Languages and Finite Automata
 
 ## Languages Tested
 - L1: { w ∈ {a,b,c}* | #b(w) ≡ 0 (mod 3) }

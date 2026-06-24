@@ -1,0 +1,11 @@
+test,model,r,M2,p,sig,direction,note
+trend_accuracy_by_length_range,chatgpt,-0.241,174.156,0.0,***,decreasing,
+trend_accuracy_by_length_range,gemini,-0.2005,120.5855,0.0,***,decreasing,
+trend_accuracy_by_b_count_tier,chatgpt,-0.3497,366.6508,0.0,***,decreasing,
+trend_accuracy_by_b_count_tier,gemini,-0.2282,156.2337,0.0,***,decreasing,
+trend_language_x_length__L3,chatgpt,-0.2539,64.424,0.0,***,decreasing,
+trend_language_x_length__L3,gemini,-0.1928,37.1194,0.0,***,decreasing,
+trend_language_x_length__L4,chatgpt,-0.2112,44.5647,0.0,***,decreasing,
+trend_language_x_length__L4,gemini,-0.1793,32.108,0.0,***,decreasing,
+trend_language_x_length__L5,chatgpt,-0.2591,67.0526,0.0,***,decreasing,
+trend_language_x_length__L5,gemini,-0.2302,52.9514,0.0,***,decreasing,
